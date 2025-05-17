@@ -1,3 +1,4 @@
+// Updated to force Git track
 export default function Hero() {
   return (
     <section className="bg-gradient-to-r from-sky-500 to-indigo-600 text-white py-20">

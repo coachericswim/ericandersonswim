@@ -1,3 +1,4 @@
+// Updated to force Git track
 export default function Testimonials() {
   return (
     <section className="bg-gray-50 py-20">

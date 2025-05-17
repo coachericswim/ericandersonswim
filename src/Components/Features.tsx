@@ -1,3 +1,4 @@
+// Updated to force Git track
 export default function Features() {
   return (
     <section className="py-16 bg-gray-50">
