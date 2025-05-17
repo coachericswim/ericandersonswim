@@ -1,3 +1,4 @@
+// Force rebuild trigger
 // Updated to force Git track
 export default function Hero() {
   return (
